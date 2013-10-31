@@ -1,0 +1,2 @@
+- since instructions can be more than one word size care must be taken when
+  jumping by updating the PC
